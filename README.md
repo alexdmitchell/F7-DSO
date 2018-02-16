@@ -23,5 +23,5 @@ Notes:
 
 You will first need to regenerate the project files using CubeMX (to replace the multiple files in STCubeGenerated that were deleted to reduce file count); open STCubeGenerated.ioc and regenerate the project. Then open the project in uVision and recompile - note that the Pro licence is needed as the code is >32kB.
 
-The input for ADC3 is PA2 on the Arduino header on the rear of the board - the full schematic for the complete analogue front end PCB is included.
+The input for ADC3 is PA2 on the Arduino header on the rear of the board - the full schematic (EAGLE) for the complete analogue front end PCB is included.
 
