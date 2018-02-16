@@ -13,4 +13,6 @@ Waveform displayed on the integrated LCD
 Full touch screen control
 Analogue front end PCB including relay switched 1:1/1:10 attenuation & AC/DC Coupling, Programmable Gain Amplifier with DAC for offset
         
+Notes:
 
+You will need to regenerate the project files using CubeMX; open 
