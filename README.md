@@ -9,9 +9,13 @@ Graticule is displayed in a seperate LCD layer, converted from a JPEG image (dra
 Features:
 
 2.4 MS/s sampling rate achieved using the onboard ADC (ADC3) and DMA
+
 8 bit resolution
+
 Waveform displayed on the integrated LCD
+
 Full touch screen control
+
 Analogue front end PCB including relay switched 1:1/1:10 attenuation & AC/DC Coupling, Programmable Gain Amplifier with DAC for offset
         
 Notes:
