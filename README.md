@@ -2,6 +2,7 @@
 DSO Project using the STM 32F746G Discovery Board - custom firmware and analogue front end PCB for my MSc project
 
 Project template & initialisation code generated using STMCubeMX
+
 IDE: Keil uVision 5 Professional
 
 Graticule is displayed in a seperate LCD layer, converted from a JPEG image (drawn in AutoCAD) to c header file using the LCD Image Converter tool: http://www.riuson.com/lcd-image-converter
